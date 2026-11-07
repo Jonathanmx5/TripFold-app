@@ -1,92 +1,131 @@
 <p align="center">
-  <img src="logo/voyago.svg" width="160" alt="Logo de Voyago : un billet d'embarquement avec un avion et deux tampons">
+  <img src="assets/banniere.png" alt="TripFold : tout votre voyage, plié dans votre poche. Itinéraire jour par jour, documents chiffrés, comptes entre amis, hors connexion.">
 </p>
-
-# Voyago
-
-**Votre carnet de voyage sur Android** : itinéraire jour par jour, réservations et documents au même endroit, dépenses
-partagées entre amis, et voyages que l'on prépare à plusieurs. Fonctionne hors connexion.
 
 <p align="center">
-  <img src="screenshots/01-voyages.png" width="240" alt="Liste des voyages : passés, en cours et à venir">
-  <img src="screenshots/02-itineraire.png" width="240" alt="Itinéraire jour par jour d'un voyage">
-  <img src="screenshots/04-depenses.png" width="240" alt="Dépenses du voyage par catégorie">
+  <a href="https://github.com/Jonathanmx5/voyago-app/releases/latest/download/TripFold.apk"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-TripFold.apk-C8603C?style=for-the-badge&logo=android&logoColor=white" alt="Télécharger TripFold.apk"></a>
+  <a href="https://github.com/Jonathanmx5/voyago-app/releases/latest"><img src="https://img.shields.io/github/v/release/Jonathanmx5/voyago-app?style=for-the-badge&label=version&color=3B2A1E" alt="Dernière version"></a>
 </p>
 
-> Les captures montrent des voyages fictifs de démonstration.
+<p align="center">
+  <b>Gratuit</b> · <b>Sans publicité</b> · <b>Fonctionne hors connexion</b> · <b>Android 8 et plus</b> · <b>Français et anglais</b>
+</p>
 
-## Ce que fait Voyago
+---
 
-### 🗓️ Un itinéraire clair, jour par jour
-Vols, trains, hôtels, locations de voiture, taxis, restaurants, activités et notes, rangés par jour. Les heures
-s'affichent dans le fuseau de chaque lieu (un vol Lyon → Tokyo indique l'heure de départ à Lyon et l'heure d'arrivée
-à Tokyo), avec la durée réelle du trajet.
+## ✈️ Tout votre voyage, au même endroit
 
-### 📎 Vos réservations et documents toujours sous la main
-Billets, factures, passeports : les documents sont **chiffrés sur le téléphone** et joints aux éléments de l'itinéraire.
-Un appui sur le trombone ouvre la pièce jointe, et on **zoome** pour lire un numéro de réservation ou un QR code.
+Vols, hôtels, trains, billets, factures, dépenses, météo, carte… **TripFold** range tout votre voyage dans un seul carnet,
+toujours dans votre poche, **même sans réseau** une fois sur place.
 
-Ajoutez une photo de facture, une capture d'écran ou un PDF : Voyago **remplit les champs tout seul** (dates, lieux,
-référence, prix) sans écraser ce que vous avez déjà saisi.
+<p align="center">
+  <img src="screenshots/02-itineraire.png" width="230" alt="Itinéraire jour par jour d'un voyage">
+  &nbsp;
+  <img src="screenshots/03-document-zoom.png" width="230" alt="Billet joint ouvert et zoomé">
+  &nbsp;
+  <img src="screenshots/05-equilibres.png" width="230" alt="Comptes entre amis et remboursements suggérés">
+</p>
 
-### 💶 Les comptes entre amis, façon Tricount
-Dépenses dans toutes les devises, converties au cours du jour, totaux par catégorie, qui a payé quoi pour qui, et
-remboursements suggérés pour équilibrer les comptes en un minimum de virements.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 👨‍👩‍👧 Des voyages partagés
-Invitez vos compagnons de voyage avec un lien ou un QR code : tout le monde voit et complète le même itinéraire,
-avec une notification quand quelqu'un ajoute une réservation ou un document. Les documents partagés restent chiffrés
-de bout en bout.
+### 🗓️ Un itinéraire limpide
+Jour par jour, avec **l'heure locale de chaque lieu** : un vol Lyon → Tokyo affiche le départ à l'heure de Lyon et
+l'arrivée à l'heure de Tokyo, durée réelle comprise.
 
-### 🌍 Vos voyages en souvenirs
-Statistiques (pays visités, kilomètres, heures de vol) et un **globe à faire tourner** avec une épingle par destination
-et les pays visités coloriés.
+</td>
+<td width="50%" valign="top">
 
-### 💡 Des idées pour partir
-Des destinations où l'on voyage pour pas cher, avec un budget indicatif par jour, et un accès direct aux **prix du moment**
-des vols et des hôtels depuis votre ville de départ.
+### 📎 Vos billets toujours sous la main
+Billets, réservations, passeports **chiffrés sur le téléphone**, joints à chaque étape. Un appui pour ouvrir, un geste
+pour **zoomer** sur un QR code à l'embarquement.
 
-### Et aussi
-- Rappels : enregistrement en ligne la veille d'un vol, départ de l'hôtel.
-- Widget « Prochain voyage » pour l'écran d'accueil.
-- Météo des destinations, carte de l'itinéraire, convertisseur de devises.
-- Sauvegarde et restauration de tous vos voyages dans un fichier.
-- Thème clair, sombre ou automatique, et ouverture directe sur vos prochains voyages.
-- Partagez un e-mail de réservation ou une capture vers Voyago : l'application la lit et propose les éléments à ajouter.
-- Après un plantage, un rapport technique est proposé au partage ; rien n'est envoyé sans votre accord.
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-## En images
+### 🪄 Remplissage automatique
+Une photo de facture, une capture ou un PDF de réservation : TripFold **remplit les champs tout seul** (dates, lieux,
+référence, prix). Vous vérifiez, c'est enregistré.
 
-| Pièce jointe zoomée | Comptes entre amis | Statistiques |
-|:---:|:---:|:---:|
-| <img src="screenshots/03-document-zoom.png" width="240" alt="Document joint ouvert et zoomé"> | <img src="screenshots/05-equilibres.png" width="240" alt="Équilibres et remboursements suggérés"> | <img src="screenshots/06-statistiques.png" width="240" alt="Statistiques de voyage"> |
+</td>
+<td valign="top">
 
-| Globe des voyages | Idées de destinations |
-|:---:|:---:|
-| <img src="screenshots/07-globe.png" width="240" alt="Globe avec les pays visités coloriés"> | <img src="screenshots/08-idees.png" width="240" alt="Destination pas chère avec accès aux prix des vols et des hôtels"> |
+### 💶 Les comptes entre amis, sans prise de tête
+Dépenses dans toutes les devises, converties au cours du jour, qui a payé quoi, et **remboursements suggérés** en un
+minimum de virements.
 
-## Installer
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-1. Sur un téléphone Android (8 ou plus récent), ouvrez la
-   [dernière version](https://github.com/Jonathanmx5/voyago-app/releases/latest) et téléchargez **voyago.apk**.
-2. Ouvrez le fichier : Android demande d'autoriser le navigateur à installer des applications, acceptez.
-3. Ouvrez Voyago et connectez-vous avec votre compte Google.
+### 👨‍👩‍👧 Préparez le voyage à plusieurs
+Un lien ou un QR code, et vos compagnons voient et complètent le même itinéraire, avec une notification à chaque
+nouvelle réservation. Documents chiffrés **de bout en bout**.
 
-Voyago n'est pas encore publiée sur le Play Store.
+</td>
+<td valign="top">
 
-## Mettre à jour
+### 📱 Sur tous vos appareils
+**Nouveau** : retrouvez vos voyages, documents et réglages sur votre téléphone **et** votre tablette. On relie un
+appareil en **scannant un QR code**, sans mot de passe à retenir.
 
-Un point rouge apparaît sur **Réglages** quand une nouvelle version est disponible : **Réglages › Mises à jour ›
-Mettre à jour**. La nouvelle version s'installe par-dessus l'ancienne ; vos voyages sont conservés.
+</td>
+</tr>
+</table>
 
-## Vie privée
+## 🧩 Des widgets pour voyager l'esprit léger
 
-- Vos voyages restent sur votre téléphone ; seuls les voyages que vous partagez sont synchronisés avec les membres invités.
-- Les documents sont chiffrés sur l'appareil, et de bout en bout dans les voyages partagés.
-- La lecture automatique d'un document l'envoie à Google (Gemini) : l'application vous le demande avant le premier envoi.
-  Vous pouvez utiliser votre propre clé Gemini gratuite (Réglages › Lecture de documents) ; elle est chiffrée sur le téléphone.
+**Nouveau** : neuf widgets pour l'écran d'accueil, qui suivent le mode clair ou sombre de votre téléphone.
+
+<p align="center">
+  <img src="assets/widgets.png" alt="Widgets TripFold : horloges du voyage, compte à rebours, météo, prochain vol, programme du jour, convertisseur">
+</p>
+
+**Horloges du voyage** · **Compte à rebours** avant le départ · **Mon vol** (porte, terminal, retard) · **Aujourd'hui**
+(le programme du jour) · **Prochain rappel** (enregistrement en ligne, départ de l'hôtel) · **Décalage horaire** ·
+**Météo** · **Convertisseur** · **Prochain voyage**.
+
+## 🌍 Et pour rêver au prochain départ
+
+<p align="center">
+  <img src="screenshots/07-globe.png" width="230" alt="Globe avec les pays visités coloriés">
+  &nbsp;
+  <img src="screenshots/06-statistiques.png" width="230" alt="Statistiques de voyage">
+  &nbsp;
+  <img src="screenshots/08-idees.png" width="230" alt="Destinations pas chères avec les prix du moment">
+</p>
+
+- **Votre globe** à faire tourner, pays visités coloriés, kilomètres parcourus et heures de vol.
+- **Des idées de destinations pas chères**, avec un budget indicatif par jour et les prix du moment des vols et hôtels.
+- **Rappels** la veille d'un vol, **météo** des destinations, **carte** de l'itinéraire, **convertisseur** de devises.
+- **Sauvegarde** de tous vos voyages dans un fichier, thème clair ou sombre.
+
+## 📲 Installer en 1 minute
+
+1. Sur votre téléphone Android, touchez **[Télécharger TripFold.apk](https://github.com/Jonathanmx5/voyago-app/releases/latest/download/TripFold.apk)**.
+2. Ouvrez le fichier téléchargé. Android demande d'autoriser le navigateur à installer des applications : acceptez.
+3. Ouvrez **TripFold** et connectez-vous avec votre compte Google. C'est prêt.
+
+> TripFold n'est pas encore sur le Play Store. Les **mises à jour** se font depuis l'application : un point rouge
+> apparaît sur **Réglages** quand une nouvelle version sort, puis **Réglages › Mises à jour › Mettre à jour**.
+> Vos voyages sont conservés.
+
+## 🔒 Vos voyages restent à vous
+
+- **Aucune publicité**, aucun outil de mesure d'audience.
+- Vos voyages restent sur votre téléphone ; seuls ceux que vous partagez ou synchronisez quittent l'appareil.
+- Documents **chiffrés** sur l'appareil, et **de bout en bout** dans les voyages partagés et la synchronisation.
+- La lecture automatique d'un document l'envoie à Google (Gemini) : TripFold vous le demande avant le premier envoi.
 - [Politique de confidentialité complète](https://voyago-b9c03.web.app/confidentialite).
 
 ---
 
-Ce dépôt ne contient que les versions à installer ; le code source est privé.
+<p align="center">
+  <img src="logo/tripfold.png" width="72" alt="Icône TripFold : un avion en papier"><br>
+  <sub>TripFold (anciennement Voyago). Ce dépôt contient les versions à installer ; le code source est privé.<br>
+  Les captures montrent des voyages fictifs de démonstration.</sub>
+</p>
