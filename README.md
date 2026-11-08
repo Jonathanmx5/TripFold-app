@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jonathanmx5/voyago-app/releases/latest/download/TripFold.apk"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-TripFold.apk-C8603C?style=for-the-badge&logo=android&logoColor=white" alt="Télécharger TripFold.apk"></a>
-  <a href="https://github.com/Jonathanmx5/voyago-app/releases/latest"><img src="https://img.shields.io/github/v/release/Jonathanmx5/voyago-app?style=for-the-badge&label=version&color=3B2A1E" alt="Dernière version"></a>
+  <a href="https://github.com/Jonathanmx5/voyago-app/releases/latest/download/TripFold.apk"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-TripFold.apk-111113?style=for-the-badge&logo=android&logoColor=white" alt="Télécharger TripFold.apk"></a>
+  <a href="https://github.com/Jonathanmx5/voyago-app/releases/latest"><img src="https://img.shields.io/github/v/release/Jonathanmx5/voyago-app?style=for-the-badge&label=version&color=E0393E" alt="Dernière version"></a>
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@ Vols, hôtels, trains, billets, factures, dépenses, météo, carte… **TripFol
 toujours dans votre poche, **même sans réseau** une fois sur place.
 
 <p align="center">
-  <img src="screenshots/02-itineraire.png" width="230" alt="Itinéraire jour par jour d'un voyage">
+  <img src="screenshots/01-voyages.png" width="230" alt="Accueil : voyages en cours et à venir, compte à rebours">
   &nbsp;
-  <img src="screenshots/03-document-zoom.png" width="230" alt="Billet joint ouvert et zoomé">
+  <img src="screenshots/02-itineraire.png" width="230" alt="Itinéraire jour par jour, à l'heure locale de chaque lieu">
   &nbsp;
-  <img src="screenshots/05-equilibres.png" width="230" alt="Comptes entre amis et remboursements suggérés">
+  <img src="screenshots/04-depenses.png" width="230" alt="Dépenses du voyage par catégorie, qui a payé quoi">
 </p>
 
 <table>
@@ -32,7 +32,8 @@ toujours dans votre poche, **même sans réseau** une fois sur place.
 
 ### 🗓️ Un itinéraire limpide
 Jour par jour, avec **l'heure locale de chaque lieu** : un vol Lyon → Tokyo affiche le départ à l'heure de Lyon et
-l'arrivée à l'heure de Tokyo, durée réelle comprise.
+l'arrivée à l'heure de Tokyo, durée réelle comprise. Un élément saisi dans le mauvais fuseau ? TripFold le signale et le
+corrige en un geste.
 
 </td>
 <td width="50%" valign="top">
@@ -79,30 +80,26 @@ appareil en **scannant un QR code**, sans mot de passe à retenir.
 
 ## 🧩 Des widgets pour voyager l'esprit léger
 
-**Nouveau** : neuf widgets pour l'écran d'accueil, qui suivent le mode clair ou sombre de votre téléphone.
+**Onze widgets** pour l'écran d'accueil, en noir, gris et blanc, qui suivent le mode clair ou sombre du téléphone.
 
 <p align="center">
-  <img src="assets/widgets.png" alt="Widgets TripFold : horloges du voyage, compte à rebours, météo, prochain vol, programme du jour, convertisseur">
+  <img src="assets/widgets.png" alt="Widgets TripFold : horloges, compte à rebours, météo, budget, hôtel du soir, prochain vol">
 </p>
 
-**Horloges du voyage** · **Compte à rebours** avant le départ · **Mon vol** (porte, terminal, retard) · **Aujourd'hui**
-(le programme du jour) · **Prochain rappel** (enregistrement en ligne, départ de l'hôtel) · **Décalage horaire** ·
-**Météo** · **Convertisseur** · **Prochain voyage**.
+**Horloges du voyage** (l'heure de chez vous en grand, puis vos deux prochaines destinations) · **Compte à rebours** ·
+**Mon vol** (porte, terminal, retard) · **Mon hôtel** (adresse, référence, itinéraire en un appui) · **Budget du voyage** ·
+**Aujourd'hui** (le programme du jour) · **Prochain rappel** · **Décalage horaire** · **Météo** · **Convertisseur** ·
+**Prochain voyage**.
+
+Votre **pays de résidence** (Réglages › Profil) reste l'heure de référence, même quand le téléphone est passé à l'heure
+du pays visité.
 
 ## 🌍 Et pour rêver au prochain départ
-
-<p align="center">
-  <img src="screenshots/07-globe.png" width="230" alt="Globe avec les pays visités coloriés">
-  &nbsp;
-  <img src="screenshots/06-statistiques.png" width="230" alt="Statistiques de voyage">
-  &nbsp;
-  <img src="screenshots/08-idees.png" width="230" alt="Destinations pas chères avec les prix du moment">
-</p>
 
 - **Votre globe** à faire tourner, pays visités coloriés, kilomètres parcourus et heures de vol.
 - **Des idées de destinations pas chères**, avec un budget indicatif par jour et les prix du moment des vols et hôtels.
 - **Rappels** la veille d'un vol, **météo** des destinations, **carte** de l'itinéraire, **convertisseur** de devises.
-- **Sauvegarde** de tous vos voyages dans un fichier, thème clair ou sombre.
+- **Sauvegarde** de tous vos voyages dans un fichier, thème clair ou sombre, interface sobre en noir et blanc.
 
 ## 📲 Installer en 1 minute
 
@@ -125,7 +122,7 @@ appareil en **scannant un QR code**, sans mot de passe à retenir.
 ---
 
 <p align="center">
-  <img src="logo/tripfold.png" width="72" alt="Icône TripFold : un avion en papier"><br>
+  <img src="logo/tripfold.png" width="72" alt="Icône TripFold : un avion en papier en couleur sur fond gris foncé"><br>
   <sub>TripFold (anciennement Voyago). Ce dépôt contient les versions à installer ; le code source est privé.<br>
   Les captures montrent des voyages fictifs de démonstration.</sub>
 </p>
