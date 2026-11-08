@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jonathanmx5/voyago-app/releases/latest/download/TripFold.apk"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-TripFold.apk-111113?style=for-the-badge&logo=android&logoColor=white" alt="Télécharger TripFold.apk"></a>
-  <a href="https://github.com/Jonathanmx5/voyago-app/releases/latest"><img src="https://img.shields.io/github/v/release/Jonathanmx5/voyago-app?style=for-the-badge&label=version&color=E0393E" alt="Dernière version"></a>
+  <a href="https://github.com/Jonathanmx5/TripFold-app/releases/latest/download/TripFold.apk"><img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger-TripFold.apk-111113?style=for-the-badge&logo=android&logoColor=white" alt="Télécharger TripFold.apk"></a>
+  <a href="https://github.com/Jonathanmx5/TripFold-app/releases/latest"><img src="https://img.shields.io/github/v/release/Jonathanmx5/TripFold-app?style=for-the-badge&label=version&color=E0393E" alt="Dernière version"></a>
 </p>
 
 <p align="center">
@@ -103,7 +103,7 @@ du pays visité.
 
 ## 📲 Installer en 1 minute
 
-1. Sur votre téléphone Android, touchez **[Télécharger TripFold.apk](https://github.com/Jonathanmx5/voyago-app/releases/latest/download/TripFold.apk)**.
+1. Sur votre téléphone Android, touchez **[Télécharger TripFold.apk](https://github.com/Jonathanmx5/TripFold-app/releases/latest/download/TripFold.apk)**.
 2. Ouvrez le fichier téléchargé. Android demande d'autoriser le navigateur à installer des applications : acceptez.
 3. Ouvrez **TripFold** et connectez-vous avec votre compte Google. C'est prêt.
 
@@ -123,6 +123,6 @@ du pays visité.
 
 <p align="center">
   <img src="logo/tripfold.png" width="72" alt="Icône TripFold : un avion en papier en couleur sur fond gris foncé"><br>
-  <sub>TripFold (anciennement Voyago). Ce dépôt contient les versions à installer ; le code source est privé.<br>
+  <sub>TripFold (anciennement Voyago). Ce dépôt contient les versions à installer et cette présentation ; le code source est privé.<br>
   Les captures montrent des voyages fictifs de démonstration.</sub>
 </p>
