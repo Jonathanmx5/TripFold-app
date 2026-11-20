@@ -123,6 +123,6 @@ du pays visité.
 
 <p align="center">
   <img src="logo/tripfold.png" width="72" alt="Icône TripFold : un avion en papier en couleur sur fond gris foncé"><br>
-  <sub>TripFold (anciennement Voyago). Ce dépôt contient les versions à installer et cette présentation ; le code source est privé.<br>
+  <sub>TripFold. Ce dépôt contient les versions à installer et cette présentation ; le code source est privé.<br>
   Les captures montrent des voyages fictifs de démonstration.</sub>
 </p>
